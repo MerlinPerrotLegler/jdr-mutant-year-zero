@@ -1,0 +1,3 @@
+# Talents
+
+<!-- Index à compléter -->

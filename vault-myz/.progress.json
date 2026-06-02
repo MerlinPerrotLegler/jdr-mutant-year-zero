@@ -1,0 +1,24 @@
+{
+  "vault_path": "../vault-myz",
+  "books": [
+    {
+      "book_id": "MYZ-07 - CarteSupp_Regeneration",
+      "total_chunks": 1,
+      "processed_chunks": 1,
+      "done": true
+    }
+  ],
+  "entities": {
+    "roles": 0,
+    "talents": 0,
+    "competences": 0,
+    "mutations": 1,
+    "pnj": 0,
+    "lieux": 0,
+    "artefacts": 0,
+    "menaces": 0,
+    "autres": 0
+  },
+  "files_written": 1,
+  "conflicts": []
+}

@@ -232,6 +232,15 @@ def _load_prompt() -> str:
     return "Prompt non trouvé. Vérifiez PROMPT_PATH."
 
 
+async def _main():
+    async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
+        await server.run(
+            read_stream,
+            write_stream,
+            server.create_initialization_options(),
+        )
+
+
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(mcp.server.stdio.run(server))
+    import anyio
+    anyio.run(_main)

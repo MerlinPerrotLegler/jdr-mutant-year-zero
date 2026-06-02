@@ -1,13 +1,13 @@
 {
   "mcpServers": {
-    "dcc-analyzer": {
-      "command": "/Users/merlinperrot/Documents/JDR/Dungeon Crawler/dcc-mcp-analyzer/venv/bin/python",
-      "args": ["/Users/merlinperrot/Documents/JDR/Dungeon Crawler/dcc-mcp-analyzer/mcp_server.py"],
+    "myz-analyzer": {
+      "command": "/Users/merlinperrot/Documents/JDR/jdr-mutant-year-zero/myz-mcp-analyzer/venv/bin/python",
+      "args": ["/Users/merlinperrot/Documents/JDR/jdr-mutant-year-zero/myz-mcp-analyzer/mcp_server.py"],
       "env": {
-        "PYTHONPATH": "/Users/merlinperrot/Documents/JDR/Dungeon Crawler/dcc-mcp-analyzer",
-        "TOMES_PATH": "/Users/merlinperrot/Documents/JDR/Dungeon Crawler/obsidian/00-Sources",
-        "VAULT_PATH": "/Users/merlinperrot/Documents/JDR/Dungeon Crawler/obsidian",
-        "PROMPT_PATH": "/Users/merlinperrot/Documents/JDR/Dungeon Crawler/obsidian/prompt.md"
+        "PYTHONPATH": "/Users/merlinperrot/Documents/JDR/jdr-mutant-year-zero/myz-mcp-analyzer",
+        "SOURCES_PATH": "/Users/merlinperrot/Documents/JDR/jdr-mutant-year-zero/vault-myz/00-Sources",
+        "VAULT_PATH": "/Users/merlinperrot/Documents/JDR/jdr-mutant-year-zero/vault-myz",
+        "PROMPT_PATH": "/Users/merlinperrot/Documents/JDR/jdr-mutant-year-zero/prompt-extraction-myz.md"
       }
     }
   }

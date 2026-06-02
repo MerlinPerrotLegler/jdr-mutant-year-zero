@@ -142,6 +142,8 @@ def _split_text(text: str, chunk_size: int, overlap: int) -> list[tuple[int, int
                 end = pos + last_heading
 
         chunks.append((pos, end))
+        if end >= length:
+            break
         pos = max(pos + 1, end - overlap)
 
     return chunks
