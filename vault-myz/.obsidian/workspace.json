@@ -11,12 +11,14 @@
             "id": "062750033196985a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf"
+                "file": "01-Regles/Personnage/Competences/Furtivite.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MYZ-01 -Core book_Errata"
+              "icon": "lucide-file",
+              "title": "Furtivite"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
+                "file": "01-Regles/Personnage/Competences/Furtivite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour MYZ-01 -Core book_Errata"
+              "title": "Rétrolien pour Furtivite"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
+                "file": "01-Regles/Personnage/Competences/Furtivite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de MYZ-01 -Core book_Errata"
+              "title": "Liens sortants de Furtivite"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
+                "file": "01-Regles/Personnage/Competences/Furtivite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de MYZ-01 -Core book_Errata"
+              "title": "Plan de Furtivite"
             }
           }
         ]
@@ -183,31 +185,34 @@
   },
   "active": "062750033196985a",
   "lastOpenFiles": [
+    "01-Regles/Personnage/Competences/Lacher-le-chien.md",
+    "01-Regles/Personnage/Competences/Observation.md",
+    "01-Regles/Personnage/Competences/Tir.md",
+    "01-Regles/Personnage/Competences/INDEX.md",
+    "00-Sources/MYZ-01 -Core book_Errata.pdf",
+    "01-Regles/Mecanique/Regles-des-jets.md",
+    "01-Regles/Personnage/Competences/Trouver-le-chemin.md",
+    "01-Regles/Personnage/Competences/Tenir-le-coup.md",
+    "01-Regles/Personnage/Competences/Systeme-D.md",
+    "01-Regles/Personnage/Competences/Soins.md",
+    "01-Regles/Personnage/Competences/Perception-des-emotions.md",
+    "01-Regles/Personnage/Competences/Manipulation.md",
+    "01-Regles/Personnage/Competences/Intimidation.md",
+    "01-Regles/Personnage/Competences/Inspirer.md",
+    "01-Regles/Personnage/Competences/Furtivite.md",
+    "01-Regles/Personnage/Competences/Force.md",
+    "01-Regles/Personnage/Competences/Endurance.md",
+    "01-Regles/Personnage/Competences/Deplacement.md",
+    "01-Regles/Personnage/Competences/Connaissance-de-la-Zone.md",
+    "01-Regles/Personnage/Competences/Conclure-un-marche.md",
+    "01-Regles/Personnage/Competences/Comprehension.md",
+    "01-Regles/Personnage/Competences/Commandement.md",
+    "01-Regles/Personnage/Competences/Combat.md",
+    "01-Regles/Personnage/Competences",
+    "Regles",
     "00-Sources/MYZ-00_Livret d'introduction.pdf",
     "01-Regles/Personnage/Talents/Talents-par-role.md",
-    "01-Regles/Personnage/Competences/INDEX.md",
     "01-Regles/Mecanique/Utiliser-une-competence.md",
-    "01-Regles/Mecanique/Traumatismes.md",
-    "01-Regles/Mecanique/Ratés-des-mutations.md",
-    "01-Regles/Mecanique/Navigation-zone.md",
-    "01-Regles/Mecanique/PM-MJ.md",
-    "01-Regles/Mecanique/Combat.md",
-    "01-Regles/Mecanique/Blessures-critiques.md",
-    "02-Lieux/Arche/Personnages/Yassan.md",
-    "02-Lieux/Arche/Personnages/Sixter.md",
-    "02-Lieux/Arche/Personnages/Pontiak.md",
-    "02-Lieux/Arche/Personnages/Oskartian.md",
-    "02-Lieux/Arche/Personnages/Mubba.md",
-    "02-Lieux/Arche/Personnages/Marlotte.md",
-    "02-Lieux/Arche/Personnages/L-Aine.md",
-    "02-Lieux/Arche/Personnages/Astrina.md",
-    "02-Lieux/Arche/Personnages/INDEX.md",
-    "02-Lieux/Arche/Description-generale.md",
-    "02-Lieux/Arche/Pieces/Salle-des-machines.md",
-    "02-Lieux/Arche/Pieces/Plage-arriere.md",
-    "02-Lieux/Arche/Pieces/Palissade.md",
-    "02-Lieux/Arche/Pieces/Jardin.md",
-    "02-Lieux/Arche/Pieces/Canot-de-sauvetage.md",
-    "02-Lieux/Zones/Tours-des-animaux/Pieces/Roue-de-la-fortune.md"
+    "01-Regles/Mecanique/Traumatismes.md"
   ]
 }

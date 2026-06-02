@@ -1,3 +1,0 @@
-# Compétences
-
-<!-- Index à compléter -->
