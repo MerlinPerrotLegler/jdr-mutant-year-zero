@@ -1,3 +1,0 @@
-# Lieux
-
-<!-- Index à compléter -->

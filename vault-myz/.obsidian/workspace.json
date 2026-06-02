@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "d7c63e4b5701cb79",
+    "type": "split",
+    "children": [
+      {
+        "id": "896e6123d51586a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062750033196985a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MYZ-01 -Core book_Errata"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d57cdf9b886c01c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b9c11e7d00eefd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dfb0a960d544cc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "f5925f3233ab7983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "28d2dcec489108c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "184e700a0efca24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1f40044a2eadfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae18800946582143",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour MYZ-01 -Core book_Errata"
+            }
+          },
+          {
+            "id": "1cff3926ab4bbbeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de MYZ-01 -Core book_Errata"
+            }
+          },
+          {
+            "id": "ea971c65760ba829",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "0f39e082fbda3228",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "3061728892693008",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de MYZ-01 -Core book_Errata"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "062750033196985a",
+  "lastOpenFiles": [
+    "00-Sources/MYZ-00_Livret d'introduction.pdf",
+    "01-Regles/Personnage/Talents/Talents-par-role.md",
+    "01-Regles/Personnage/Competences/INDEX.md",
+    "01-Regles/Mecanique/Utiliser-une-competence.md",
+    "01-Regles/Mecanique/Traumatismes.md",
+    "01-Regles/Mecanique/Ratés-des-mutations.md",
+    "01-Regles/Mecanique/Navigation-zone.md",
+    "01-Regles/Mecanique/PM-MJ.md",
+    "01-Regles/Mecanique/Combat.md",
+    "01-Regles/Mecanique/Blessures-critiques.md",
+    "02-Lieux/Arche/Personnages/Yassan.md",
+    "02-Lieux/Arche/Personnages/Sixter.md",
+    "02-Lieux/Arche/Personnages/Pontiak.md",
+    "02-Lieux/Arche/Personnages/Oskartian.md",
+    "02-Lieux/Arche/Personnages/Mubba.md",
+    "02-Lieux/Arche/Personnages/Marlotte.md",
+    "02-Lieux/Arche/Personnages/L-Aine.md",
+    "02-Lieux/Arche/Personnages/Astrina.md",
+    "02-Lieux/Arche/Personnages/INDEX.md",
+    "02-Lieux/Arche/Description-generale.md",
+    "02-Lieux/Arche/Pieces/Salle-des-machines.md",
+    "02-Lieux/Arche/Pieces/Plage-arriere.md",
+    "02-Lieux/Arche/Pieces/Palissade.md",
+    "02-Lieux/Arche/Pieces/Jardin.md",
+    "02-Lieux/Arche/Pieces/Canot-de-sauvetage.md",
+    "02-Lieux/Zones/Tours-des-animaux/Pieces/Roue-de-la-fortune.md"
+  ]
+}

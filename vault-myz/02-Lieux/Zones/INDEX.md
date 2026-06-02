@@ -1,3 +1,0 @@
-# Zones
-
-<!-- Index à compléter -->

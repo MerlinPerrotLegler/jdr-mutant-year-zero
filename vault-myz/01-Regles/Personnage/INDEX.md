@@ -1,3 +1,0 @@
-# Personnage
-
-<!-- Index à compléter -->

@@ -6,19 +6,31 @@
       "total_chunks": 1,
       "processed_chunks": 1,
       "done": true
+    },
+    {
+      "book_id": "MYZ-00_Livret d'introduction",
+      "total_chunks": 18,
+      "processed_chunks": 18,
+      "done": true
+    },
+    {
+      "book_id": "MYZ-01 -Core book_Errata",
+      "total_chunks": 80,
+      "processed_chunks": 80,
+      "done": true
     }
   ],
   "entities": {
-    "roles": 0,
-    "talents": 0,
+    "roles": 8,
+    "talents": 1,
     "competences": 0,
-    "mutations": 1,
+    "mutations": 27,
     "pnj": 0,
-    "lieux": 0,
-    "artefacts": 0,
-    "menaces": 0,
+    "lieux": 26,
+    "artefacts": 30,
+    "menaces": 28,
     "autres": 0
   },
-  "files_written": 1,
+  "files_written": 62,
   "conflicts": []
 }

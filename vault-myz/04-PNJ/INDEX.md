@@ -1,3 +1,0 @@
-# PNJ
-
-<!-- Index à compléter -->
