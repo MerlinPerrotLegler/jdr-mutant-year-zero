@@ -11,14 +11,12 @@
             "id": "062750033196985a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01-Regles/Personnage/Competences/Furtivite.md",
-                "mode": "source",
-                "source": false
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Furtivite"
+              "icon": "lucide-file-text",
+              "title": "MYZ-01 -Core book_Errata"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Regles/Personnage/Competences/Furtivite.md",
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Furtivite"
+              "title": "Rétrolien pour MYZ-01 -Core book_Errata"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Regles/Personnage/Competences/Furtivite.md",
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Furtivite"
+              "title": "Liens sortants de MYZ-01 -Core book_Errata"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Regles/Personnage/Competences/Furtivite.md",
+                "file": "00-Sources/MYZ-01 -Core book_Errata.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Furtivite"
+              "title": "Plan de MYZ-01 -Core book_Errata"
             }
           }
         ]
@@ -185,34 +183,34 @@
   },
   "active": "062750033196985a",
   "lastOpenFiles": [
-    "01-Regles/Personnage/Competences/Lacher-le-chien.md",
+    "00-Sources/MYZ-00_Livret d'introduction.pdf",
+    "01-Regles/Personnage/Competences/Manipulation.md",
+    "01-Regles/Personnage/Competences/Perception-des-emotions.md",
+    "01-Regles/Personnage/Competences/Systeme-D.md",
+    "01-Regles/Personnage/Competences/Soins.md",
+    "01-Regles/Personnage/Talents/Talents-par-role.md",
+    "01-Regles/Personnage/Competences/Comprehension.md",
     "01-Regles/Personnage/Competences/Observation.md",
+    "00-Sources/MYZ-01 -Core book_Errata.pdf",
+    "01-Regles/Mecanique/Resumé.md",
+    "01-Regles/Personnage/Creation-de-personnage.md",
+    "01-Regles/Personnage/Competences/Furtivite.md",
+    "01-Regles/Personnage/Competences/Lacher-le-chien.md",
     "01-Regles/Personnage/Competences/Tir.md",
     "01-Regles/Personnage/Competences/INDEX.md",
-    "00-Sources/MYZ-01 -Core book_Errata.pdf",
     "01-Regles/Mecanique/Regles-des-jets.md",
     "01-Regles/Personnage/Competences/Trouver-le-chemin.md",
     "01-Regles/Personnage/Competences/Tenir-le-coup.md",
-    "01-Regles/Personnage/Competences/Systeme-D.md",
-    "01-Regles/Personnage/Competences/Soins.md",
-    "01-Regles/Personnage/Competences/Perception-des-emotions.md",
-    "01-Regles/Personnage/Competences/Manipulation.md",
     "01-Regles/Personnage/Competences/Intimidation.md",
     "01-Regles/Personnage/Competences/Inspirer.md",
-    "01-Regles/Personnage/Competences/Furtivite.md",
     "01-Regles/Personnage/Competences/Force.md",
     "01-Regles/Personnage/Competences/Endurance.md",
     "01-Regles/Personnage/Competences/Deplacement.md",
     "01-Regles/Personnage/Competences/Connaissance-de-la-Zone.md",
     "01-Regles/Personnage/Competences/Conclure-un-marche.md",
-    "01-Regles/Personnage/Competences/Comprehension.md",
     "01-Regles/Personnage/Competences/Commandement.md",
     "01-Regles/Personnage/Competences/Combat.md",
     "01-Regles/Personnage/Competences",
-    "Regles",
-    "00-Sources/MYZ-00_Livret d'introduction.pdf",
-    "01-Regles/Personnage/Talents/Talents-par-role.md",
-    "01-Regles/Mecanique/Utiliser-une-competence.md",
-    "01-Regles/Mecanique/Traumatismes.md"
+    "Regles"
   ]
 }
